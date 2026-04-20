@@ -6,23 +6,16 @@
                              http://www.w3.org/TR/pronunciation-lexicon/pls.xsd"
          alphabet="ipa"
          xml:lang="es-ES">
-
-  <!-- Pronunciación de la marca Mahou en español -->
   <lexeme>
     <grapheme>Mahou</grapheme>
     <phoneme>maˈou</phoneme>
   </lexeme>
-
-  <!-- Variante en mayúsculas -->
   <lexeme>
     <grapheme>MAHOU</grapheme>
     <phoneme>maˈou</phoneme>
   </lexeme>
-
-  <!-- Variante con m inicial en minúscula -->
   <lexeme>
     <grapheme>mahou</grapheme>
     <phoneme>maˈou</phoneme>
   </lexeme>
-
 </lexicon>
