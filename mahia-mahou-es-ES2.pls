@@ -24,10 +24,10 @@
   </lexeme>
   <lexeme>
     <grapheme>mahia</grapheme>
-    <phoneme>maˈia.pɾweβa.leksikon</phoneme>
+    <phoneme>maˈia</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mahou</grapheme>
-    <phoneme>maˈou.pɾweβa.leksikon</phoneme>
+    <phoneme>maˈou</phoneme>
   </lexeme>
 </lexicon>
