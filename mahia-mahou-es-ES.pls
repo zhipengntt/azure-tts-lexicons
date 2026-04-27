@@ -8,19 +8,19 @@
     xml:lang="es-ES">
   <lexeme>
     <grapheme>MAHIA</grapheme>
-    <phoneme>mahia</phoneme>
+    <alias>mahia</alias>
   </lexeme>
   <lexeme>
     <grapheme>MAHOU</grapheme>
-    <phoneme>mahou</phoneme>
+    <alias>mahou</alias>
   </lexeme>
   <lexeme>
     <grapheme>Mahia</grapheme>
-    <phoneme>mahia</phoneme>
+    <alias>mahia</alias>
   </lexeme>
   <lexeme>
     <grapheme>Mahou</grapheme>
-    <phoneme>mahou</phoneme>
+    <alias>mahou</alias>
   </lexeme>
   <lexeme>
     <grapheme>mahia</grapheme>
