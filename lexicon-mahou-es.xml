@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<lexicon version="1.0"
-         xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
-                             http://www.w3.org/TR/pronunciation-lexicon/pls.xsd"
-         alphabet="ipa"
-         xml:lang="es-ES">
+<lexicon
+    xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+    version="1.0"
+    alphabet="ipa"
+    xml:lang="es-ES">
+  <lexeme>
+    <grapheme>Mahia</grapheme>
+    <phoneme>maˈia pɾweβa leksikon</phoneme>
+  </lexeme>
   <lexeme>
     <grapheme>Mahou</grapheme>
-    <phoneme>maˈou prueba</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>MAHOU</grapheme>
-    <phoneme>maˈou prueba</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>mahou</grapheme>
-    <phoneme>maˈou prueba</phoneme>
+    <phoneme>maˈou pɾweβa leksikon</phoneme>
   </lexeme>
 </lexicon>
