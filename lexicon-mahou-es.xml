@@ -8,10 +8,10 @@
     xml:lang="es-ES">
   <lexeme>
     <grapheme>Mahia</grapheme>
-    <phoneme>maˈia pɾweβa leksikon</phoneme>
+    <alias>Mahia prueba lexicon</alias>
   </lexeme>
   <lexeme>
     <grapheme>Mahou</grapheme>
-    <phoneme>maˈou pɾweβa leksikon</phoneme>
+    <alias>Mahou prueba lexicon</alias>
   </lexeme>
 </lexicon>
