@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon
+    xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+    version="1.0"
+    alphabet="ipa"
+    xml:lang="es-ES">
+  <lexeme>
+    <grapheme>MAHIA</grapheme>
+    <phoneme>mahia</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>MAHOU</grapheme>
+    <phoneme>mahou</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Mahia</grapheme>
+    <phoneme>mahia</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Mahou</grapheme>
+    <phoneme>mahou</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mahia</grapheme>
+    <phoneme>maˈia.pɾweβa.leksikon</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mahou</grapheme>
+    <phoneme>maˈou.pɾweβa.leksikon</phoneme>
+  </lexeme>
+</lexicon>
