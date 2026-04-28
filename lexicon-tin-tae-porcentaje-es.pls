@@ -6,23 +6,24 @@
                              http://www.w3.org/TR/pronunciation-lexicon/pls.xsd"
          alphabet="ipa"
          xml:lang="es-ES">
-
-  <!-- BTW pronunciado como "by the way" en español -->
   <lexeme>
-    <grapheme>btw</grapheme>
-    <phoneme>bai de ˈwei</phoneme>
+    <grapheme>TIN</grapheme>
+    <phoneme>tin</phoneme>
   </lexeme>
-
-  <!-- Variante en mayúsculas -->
   <lexeme>
-    <grapheme>BTW</grapheme>
-    <phoneme>bai de ˈwei</phoneme>
+    <grapheme>TAE</grapheme>
+    <phoneme>taˈe</phoneme>
   </lexeme>
-
-  <!-- Variante capitalizada -->
   <lexeme>
-    <grapheme>Btw</grapheme>
-    <phoneme>bai de ˈwei</phoneme>
+    <grapheme>Mb</grapheme>
+    <phoneme>ˈeme.ˈbe</phoneme>
   </lexeme>
-
+  <lexeme>
+    <grapheme>MB</grapheme>
+    <phoneme>ˈeme.ˈbe</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>%</grapheme>
+    <phoneme>poɾ.ˈθjento</phoneme>
+  </lexeme>
 </lexicon>
